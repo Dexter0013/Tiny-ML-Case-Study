@@ -13,6 +13,10 @@ An ultra-low-latency, memory-efficient TinyML framework designed to detect and m
 
 **Live Interactive Simulation:** [Wokwi Project Workspace](https://wokwi.com/projects/477016569256088577)
 
+<img width="1509" height="690" alt="image" src="https://github.com/user-attachments/assets/6114d239-66a4-451a-b9a3-8511fd046b29" />
+
+**Attack Simulation:** https://dexter0013.github.io/Tiny-ML-Case-Study/
+
 ---
 
 ## Table of Contents
