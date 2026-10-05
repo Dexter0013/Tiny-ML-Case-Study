@@ -211,22 +211,6 @@ void loop() {
 }
 ```
 
----
-
-## Citation
-
-```bibtex
-@software{tinyml_ddos_shield_2026,
-  author = {Deepraj Singha},
-  title = {TinyML DDoS & Network Threat Detection Framework for Microcontrollers},
-  year = {2026},
-  publisher = {GitHub},
-  url = {[https://github.com/your-username/tinyml-ddos-shield](https://github.com/your-username/tinyml-ddos-shield)}
-}
-```
-
----
-
 ## License
 
 Distributed under the **MIT License**. See `LICENSE` for details.
