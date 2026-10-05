@@ -6,7 +6,8 @@
 ![TinyML](https://img.shields.io/badge/TinyML-eBPF%20%2F%20TFLite%20Micro%20%2F%20emlearn-orange)
 
 An ultra-low-latency, memory-efficient TinyML framework designed to detect and mitigate Distributed Denial of Service (DDoS) and network traffic anomalies directly on embedded microcontrollers (ESP32, ESP32-S3, Arduino Nano 33 BLE). By offloading model execution to microsecond-level inline C logic or quantized INT8 kernels, this framework eliminates control plane saturation and shields low-power gateways from volumetric attacks.
-
+<img width="1524" height="685" alt="image" src="https://github.com/user-attachments/assets/c2e42dd2-603d-4ced-89cc-ead9ba0e8467" />
+Link to project: https://wokwi.com/projects/477016569256088577
 ---
 
 ## Table of Contents
