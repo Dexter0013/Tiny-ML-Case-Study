@@ -10,6 +10,7 @@ An ultra-low-latency, memory-efficient TinyML framework designed to detect and m
 ---
 <img width="1524" height="685" alt="image" src="https://github.com/user-attachments/assets/c2e42dd2-603d-4ced-89cc-ead9ba0e8467" />
 Link to project: https://wokwi.com/projects/477016569256088577
+
 ---
 
 ## Table of Contents
