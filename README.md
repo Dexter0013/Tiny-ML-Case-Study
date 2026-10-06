@@ -12,6 +12,7 @@ An ultra-low-latency, memory-efficient TinyML framework designed to detect and m
 <img width="1524" height="685" alt="image" src="https://github.com/user-attachments/assets/c2e42dd2-603d-4ced-89cc-ead9ba0e8467" />
 
 **Live Interactive Simulation:** [Wokwi Project Workspace](https://wokwi.com/projects/477016569256088577)
+**Adv:** https://wokwi.com/projects/477041947859975169
 
 <img width="1509" height="690" alt="image" src="https://github.com/user-attachments/assets/6114d239-66a4-451a-b9a3-8511fd046b29" />
 
