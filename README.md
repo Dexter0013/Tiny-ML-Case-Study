@@ -18,6 +18,10 @@ An ultra-low-latency, memory-efficient TinyML framework designed to detect and m
 
 **Attack Simulation:** https://dexter0013.github.io/Tiny-ML-Case-Study/
 
+<img width="1530" height="517" alt="image" src="https://github.com/user-attachments/assets/21cea742-0ff4-4a62-abb3-ea378ad40754" />
+
+**Tiny ML IOT-SDN Controller:** https://dexter0013.github.io/Tiny-ML-Case-Study/About
+
 ---
 
 ## Table of Contents
