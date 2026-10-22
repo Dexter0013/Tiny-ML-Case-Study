@@ -1,4 +1,4 @@
-# TinyML DDoS & Network Threat Detection Framework for Microcontrollers and single-board computers
+# TinyML DDoS & Network Threat Detection Framework for Microcontrollers and Single-Board Computers
 
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-ESP32%20%7C%20Arduino-blue)
